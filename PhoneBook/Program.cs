@@ -13,8 +13,7 @@ namespace PhoneBook
             int choice;
             string text;
             string name;
-            //string[] number = new string[50];
-            //List<string> number = new List<string>();
+            
             List<Person> list = new List<Person>();
 
             for (; ; )

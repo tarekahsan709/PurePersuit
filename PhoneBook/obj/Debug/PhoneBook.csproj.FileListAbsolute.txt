@@ -4,3 +4,6 @@ c:\users\tarek\documents\visual studio 2013\Projects\PhoneBook\bin\Debug\PhoneBo
 c:\users\tarek\documents\visual studio 2013\Projects\PhoneBook\obj\Debug\PhoneBook.csprojResolveAssemblyReference.cache
 c:\users\tarek\documents\visual studio 2013\Projects\PhoneBook\obj\Debug\PhoneBook.exe
 c:\users\tarek\documents\visual studio 2013\Projects\PhoneBook\obj\Debug\PhoneBook.pdb
+C:\Users\sajal\Documents\GitHub\purePersuit\PhoneBook\bin\Debug\PhoneBook.exe.config
+C:\Users\sajal\Documents\GitHub\purePersuit\PhoneBook\obj\Debug\PhoneBook.exe
+C:\Users\sajal\Documents\GitHub\purePersuit\PhoneBook\obj\Debug\PhoneBook.pdb
